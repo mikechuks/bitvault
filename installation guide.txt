@@ -1,0 +1,72 @@
+====================================================================================================================
+
+                                                   INSTALLATION GULDE
+
+====================================================================================================================
+
+
+********************************************************************************************************************
+**** This online wallet script is for educational purposes only. 
+We are not responsible for any illegal use of this script. ******
+********************************************************************************************************************
+
+
+
+*** How to upload scripts ***
+
+Download and Extract Zip files to public directory or sub folder
+
+Create a New Database and Import database.sql file
+
+You can find the database.sql file inside the SQL folder
+
+===================================================================================================================
+
+******* TO set up the database ****** 
+
+1: Find a folder call app inside that app folder locate a folder call logic inside the logic folder you will see the connection.php file and set you database according to your information
+
+2: Find a folder call admin locate connection.php file and set you database according to your information
+
+3: Edit adminemail
+4: Edit Sitename 
+5: Edit Siteurl 
+
+in the connection.php file
+
+===================================================================================================================
+
+*** Admin Logins ***
+
+https://siteurl.com/admin/login.php
+
+Username: admin
+Password: 123456
+
+**** Site url ***
+
+https://siteurl.com/app/
+
+Email: user@mail.com
+Password: 123456
+
+===================================================================================================================
+
+** TO set up SMtP so user can receive mail **
+
+1  locate a folder call app inside the app folder you will see a folder call logic inside the logic folder you will see  a file call functions.php file and setup according to your details
+
+=================================================================================================================
+
+
+*****************************************************************************************************************
+**** This online wallet script is for educational purposes only. 
+We are not responsible for any illegal use of this script. ******
+*****************************************************************************************************************
+
+
+
+
+
+
+
